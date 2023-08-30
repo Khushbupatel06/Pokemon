@@ -1,0 +1,15 @@
+.pokemon img {
+    display: inline-block;
+    width: 300px;
+  
+}
+.pokemon {
+    border: 1px solid rgb(23, 16, 246);
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+  
+.pokemon h1 {
+    color: rgb(0, 255, 145);
+}
